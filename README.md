@@ -7,6 +7,8 @@ This app is for the application process for  Ventzke Media frontend engineer int
 
 Preview: https://todo-yuchan48.netlify.app/
 
+___
+
 ### Features
 - Responsive for all screen sizes 
 - Data is stored in the localStorage, so it will persist even after the browser window is closed.
