@@ -41,4 +41,4 @@ Preview: https://todo-yuchan48.netlify.app/
 ### What I will improve if I could spend more than 4 hours
 - Add due date, category, and note in a task
 - In the overview page, the list will be sorted by the due date in ascending order
-- improve design
+- Improve design
