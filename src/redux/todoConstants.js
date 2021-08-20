@@ -1,0 +1,5 @@
+export const TODO_ADD_TASK = "TODO_ADD_TASK";
+export const TODO_DELETE_TASK = "TODO_DELETE_TASK";
+export const TODO_TASK_DETAILS = "TODO_TASK_DETAILS";
+export const TODO_ADD_TASK_FAIL = "TODO_ADD_TASK_FAIL";
+export const TODO_EDIT_TASK = "TODO_EDIT_TASK";
