@@ -20,14 +20,14 @@ ___
 ![overview page img](https://i.imgur.com/2EtZOUEm.jpg)
 
 - View list of all the tasks
-- Create new task
+- Create a new task
 - Delete task
 
 #### Details screen
 
 ![details page img](https://i.imgur.com/1OilMNsm.jpg)
 
-- View details of single task
+- View details of a single task
 - Edit task
 
 #### Mobile
@@ -42,5 +42,8 @@ ___
 
 ### What I will improve if I could spend more than 4 hours
 - Add due date, category, and note in a task
-- In the overview page, the list will be sorted by the due date in ascending order
+- On the overview page, the list will be sorted by the due date in ascending order
 - Improve design
+
+
+
